@@ -66,4 +66,4 @@ etcdctl member list
 6702b0a34e2cfd39, started, controller, http://127.0.0.1:2380, http://127.0.0.1:2379, false
 ```
 
-Next: Bootstrapping the Kubernetes Control Plane
+Next: [Bootstrapping the Kubernetes Control Plane](https://github.com/AlvaroNieto/kubernetes-deploy/blob/main/docs/08-bootstrapping-kubernetes-controllers.md)

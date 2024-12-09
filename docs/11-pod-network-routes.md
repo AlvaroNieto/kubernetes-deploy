@@ -76,4 +76,4 @@ default via 10.1.1.1 dev eth0 onlink
 
 
 
-Next: Smoke Test
+Next: [Smoke Test](https://github.com/AlvaroNieto/kubernetes-deploy/blob/main/docs/12-smoke-test.md)

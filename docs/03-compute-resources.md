@@ -224,4 +224,4 @@ done < machines.txt
 
 At this point hostnames can be used when connecting to machines from the `jumpbox` machine, or any of the three machines in the Kubernetes cluster. Instead of using IP addresses I can now connect to machines using a hostname such as `server`, `node-0`, or `node-1`.
 
-Next: Provisioning a CA and Generating TLS Certificates
+Next: [Provisioning a CA and Generating TLS Certificates](https://github.com/AlvaroNieto/kubernetes-deploy/blob/main/docs/04-certificate-authority.md)

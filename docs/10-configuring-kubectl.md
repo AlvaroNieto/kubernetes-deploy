@@ -83,4 +83,4 @@ node-1   Ready    <none>   3m29s   v1.29.3
 
 ```
 
-Next: Provisioning Pod Network Routes
+Next: [Provisioning Pod Network Routes](https://github.com/AlvaroNieto/kubernetes-deploy/blob/main/docs/11-pod-network-routes.md)

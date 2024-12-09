@@ -100,3 +100,5 @@ kubectl version --client
 Client Version: v1.29.3
 Kustomize Version: v5.0.4-0.20230601165947-6ce0bf390ce3
 ```
+
+Next: [Compute Resources](https://github.com/AlvaroNieto/kubernetes-deploy/blob/main/docs/03-compute-resources.md)

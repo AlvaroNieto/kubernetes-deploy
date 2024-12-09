@@ -206,4 +206,4 @@ node-0   Ready    <none>   4m    v1.29.3
 node-1   Ready    <none>   7s    v1.29.3
 ```
 
-Next: Configuring kubectl for Remote Access
+Next: [Configuring kubectl for Remote Access](https://github.com/AlvaroNieto/kubernetes-deploy/blob/main/docs/10-configuring-kubectl.md)

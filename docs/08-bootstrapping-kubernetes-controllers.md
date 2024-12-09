@@ -164,4 +164,4 @@ root@jumpbox:~/kubernetes-the-hard-way# curl -k --cacert ca.crt https://server.k
 }
 ```
 
-Next: Bootstrapping the Kubernetes Worker Nodes
+Next: [Bootstrapping the Kubernetes Worker Nodes](https://github.com/AlvaroNieto/kubernetes-deploy/blob/main/docs/09-bootstrapping-kubernetes-workers.md)

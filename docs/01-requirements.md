@@ -11,3 +11,5 @@ This is going to be the setup be their setup
 | server | Kubernetes server | 1 | 2GB | 20GB | 10.1.1.101 |
 | node-0 | Kubernetes worker node | 1 | 2GB | 20GB | 10.1.1.102 |
 | node-1 | Kubernetes worker node | 1 | 2GB | 20GB | 10.1.1.103 |
+
+Next: [Jumpbox](https://github.com/AlvaroNieto/kubernetes-deploy/blob/main/docs/02-jumpbox.md)

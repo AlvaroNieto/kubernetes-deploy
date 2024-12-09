@@ -204,4 +204,4 @@ scp admin.kubeconfig \
   kube-scheduler.kubeconfig \
   root@server:~/
 ```
-Next: Generating the Data Encryption Config and Key
+Next: [Generating the Data Encryption Config and Key](https://github.com/AlvaroNieto/kubernetes-deploy/blob/main/docs/06-data-encryption-keys.md)

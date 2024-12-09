@@ -27,4 +27,4 @@ Copy the `encryption-config.yaml` encryption config file to each controller inst
 scp encryption-config.yaml root@server:~/
 ```
 
-Next: Bootstrapping the etcd Cluster
+Next: [Bootstrapping the etcd Cluster](https://github.com/AlvaroNieto/kubernetes-deploy/blob/main/docs/07-bootstrapping-etcd.md)
